@@ -13,6 +13,8 @@ body {
   border: 1px solid #d5dade;
   width: 95%;
   border-radius: 1%;
+  min-width: 300px;
+  min-width: 300px;
 
 }
 
@@ -84,7 +86,7 @@ border-color: #d4d4d4 transparent transparent transparent;
 
 
  border: none;
- width: 25px;
+ width: 24.5px;
  border-radius: 25%;
 
 
